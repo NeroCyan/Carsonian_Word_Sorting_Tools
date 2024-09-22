@@ -38,7 +38,7 @@ def ellipses(rough):   # Loops through "."s with each possible integer value
 
 
 if __name__ == '__main__':  # Enter word description
-    description = "e10c"  # input("Enter word description :")
+    description = input("Enter word description :")
     if description.count(".") == 0:
         print(seeker(expander(description)))
     elif description.count(".") != 0:
