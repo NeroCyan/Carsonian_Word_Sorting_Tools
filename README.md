@@ -3,7 +3,7 @@ The main.py file contains a program that outputs a list of specific words within
 Information in this description can include characteristics such as word length, specific letters in specific positions, and ambiguous spaces between these letters.
 **More updates to be made regularly**
 # Description
-The description by the user can be comprised of;
+The description by the user can be comprised of;  
 **numbers(exact number of unspecified letters in a space),**  
 **lowercase letters (exact letters),**  
 **"." (unspecified letters over ambiguous space)**  
