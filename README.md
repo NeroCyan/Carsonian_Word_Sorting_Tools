@@ -1,6 +1,7 @@
 # Use
 The main.py file contains a program that outputs a list of specific words within the English language which match a specified pattern (description) entered by the user.
 Information in this description can include characteristics such as word length, specific letters in specific positions, and ambiguous spaces between these letters.  
+
 **More updates to be made regularly**
 # Description
 The description by the user can be comprised of;  
@@ -12,7 +13,7 @@ The description by the user can be comprised of;
 which are used to denote the desired word pattern.
 # Pattern Syntax
 ## Letters and Numbers
-Letters are used to represent exactly those letters, with numbers being put before, between, or after them to show how many unspecified letters should be in those spaces.
+Lowercase letters are used to represent exactly those letters, with numbers being put before, between, or after them to show how many unspecified letters should be in those spaces.
 If some words seem odd, some really odd, it is because this program draws from an extensive text file - one might say overly extensive.
 e.g.
 Enter word description: "2lp" 
