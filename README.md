@@ -19,7 +19,7 @@ If some words seem odd, some really odd, it is because this program draws from a
 e.g.  
 
 Enter word description: "2lp"  
-**2 unspecified letters followed by "lp"**   
+__2 unspecified letters followed by "lp"__   
 
 **output**   
 calp, gulp, help, holp, kelp, kilp, palp, pulp, qflp, salp, yelp  
