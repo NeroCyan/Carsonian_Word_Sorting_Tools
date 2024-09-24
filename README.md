@@ -4,9 +4,9 @@ Information in this description can include characteristics such as word length,
 **More updates to be made regularly**
 # Description
 The description by the user can be comprised of;
-**numbers(exact number of unspecified letters in a space),**
-**lowercase letters (exact letters),**
-**"." (unspecified letters over ambiguous space)**
+\n**numbers(exact number of unspecified letters in a space),**
+\n**lowercase letters (exact letters),**
+\n**"." (unspecified letters over ambiguous space)**
 which are used to denote the desired word pattern.
 # Pattern Syntax
 ## Letters and Numbers
