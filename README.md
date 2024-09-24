@@ -18,23 +18,23 @@ Lowercase letters are used to represent exactly those letters, with numbers bein
 If some words seem odd, some really odd, it is because this program draws from an extensive text file - one might say overly extensive.  
 e.g.  
 
-Enter word description: "<span style="color: green"> 2lp </span>"  
+Enter word description: "2lp"  
 **2 unspecified letters followed by "lp"**   
 
 **output**   
-[ calp ,  gulp ,  help ,  holp ,  kelp ,  kilp ,  palp ,  pulp ,  qflp ,  salp ,  yelp ]  
+calp, gulp, help, holp, kelp, kilp, palp, pulp, qflp, salp, yelp  
 ---------------------------------------  
 Enter word description: "ho1se"  
  "ho" followed by 1 unspecified letter followed by "se"   
 
- output   
-[ hoise ,  horse ,  house ]  
+output   
+hoise, horse, house 
 ---------------------------------------  
 Enter word description: "nauti3"   
  "nauti" followed by 3 unspecified letters   
 
  output   
-[ nautical ,  nautilus ]  
+[ nautical, nautilus ]  
 ## Periods "."
 Periods represent an ambiguous number of unspecified letters within a space. 
 e.g. 
@@ -43,27 +43,27 @@ Enter word description: ".clone"
  any number of unspecified letters followed by "clone"   
 
  output   
-[ cyclone ,  anticyclone ]  
+[ cyclone, anticyclone ]  
 ---------------------------------------  
 Enter word description: "how.t"  
  "how" followed by any number of unspecified letters followed by "t"   
 
  output   
-[ howlet ,  howzat ,  howbeit ]  
+[ howlet, howzat, howbeit ]  
 ---------------------------------------  
 Enter word description: "jagu."  
  "jagu." followed by any number of unspecified letters   
 
  output   
-[ jaguar ,  jaguars ,  jaguarondi ,  jaguarundi ,  jaguarondis ,  jaguarundis ]  
+[ jaguar, jaguars, jaguarondi, jaguarundi, jaguarondis, jaguarundis ]  
 
 # Mixing
 Of course, any number of numbers, letters, periods, and any other number of symbols in future updates, can be combined to make a description pattern.
 
 e.g.  
 Enter word description: "el.tr1c"   
- "el" followed by any number of unspecified letters followed by "tr" followed by 1 unspecified letter followed by "c" 
+"el" followed by any number of unspecified letters followed by "tr" followed by 1 unspecified letter followed by "c" 
 
  output   
-[ electric ,  eccentric ,  excentric ,  egocentric ,  epigastric ,  econometric ,  eurocentric ,  ethnocentric , electrometric ,  endosmometric ,  europocentric ]
+[ electric, eccentric, excentric, egocentric, epigastric, econometric, eurocentric, ethnocentric, electrometric, endosmometric, europocentric ]
 
