@@ -19,21 +19,24 @@ If some words seem odd, some really odd, it is because this program draws from a
 e.g.  
 
 _2 unspecified letters followed by "lp"_   
-**Enter word description: "2lp"**  
-_output_
+**Enter word description: "2lp"** 
+
+_output_  
 **calp, gulp, help, holp, kelp, kilp, palp, pulp, qflp, salp, yelp**
 
-Enter word description: "ho1se"  
-"ho" followed by 1 unspecified letter followed by "se"   
+ 
+_"ho" followed by 1 unspecified letter followed by "se"_
+**Enter word description: "ho1se"**  
 
-output   
-hoise, horse, house 
----------------------------------------  
-Enter word description: "nauti3"   
- "nauti" followed by 3 unspecified letters   
+_output_   
+**hoise, horse, house** 
 
- output   
-[ nautical, nautilus ]  
+ 
+_Enter word description: "nauti3"_   
+**"nauti" followed by 3 unspecified letters**   
+
+_output_   
+**nautical, nautilus**  
 ## Periods "."
 Periods represent an ambiguous number of unspecified letters within a space. 
 e.g. 
