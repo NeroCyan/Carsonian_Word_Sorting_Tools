@@ -61,7 +61,7 @@ _output_
 Of course, any number of numbers, letters, periods, and any other number of symbols in future updates, can be combined to make a description pattern.
 
 Example:    
-_"el" followed by any number of unspecified letters followed by "tr" followed by 1 unspecified letter followed by "c"_ 
+_"el" followed by any number of unspecified letters followed by "tr" followed by 1 unspecified letter followed by "c"_   
 **Enter word description: "el.tr1c"**   
 
 
