@@ -25,15 +25,15 @@ _output_
 **calp, gulp, help, holp, kelp, kilp, palp, pulp, qflp, salp, yelp**
 
  
-_"ho" followed by 1 unspecified letter followed by "se"_
+_"ho" followed by 1 unspecified letter followed by "se"_  
 **Enter word description: "ho1se"**  
 
 _output_   
 **hoise, horse, house** 
 
  
-_Enter word description: "nauti3"_   
-**"nauti" followed by 3 unspecified letters**   
+_"nauti" followed by 3 unspecified letters_  
+**Enter word description: "nauti3"**   
 
 _output_   
 **nautical, nautilus**  
