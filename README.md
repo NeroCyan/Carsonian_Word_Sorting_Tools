@@ -15,23 +15,21 @@ which are used to denote the desired word pattern.
 ## Letters and Numbers
 Lowercase letters are used to represent exactly those letters, with numbers being put before, between, or after them to show how many unspecified letters should be in those spaces.
 
-If some words seem odd, some really odd, it is because this program draws from an extensive text file - one might say overly extensive.  
-e.g.  
+If some words seem odd, some really odd, it is because this program draws from an extensive text file - one might say overly extensive. This is to ensure all possible words within a pattern are found, even if strange.    
 
+Examples:  
 _2 unspecified letters followed by "lp"_   
 **Enter word description: "2lp"** 
 
 _output_  
 **calp, gulp, help, holp, kelp, kilp, palp, pulp, qflp, salp, yelp**
-
- 
+_________________________________
 _"ho" followed by 1 unspecified letter followed by "se"_  
 **Enter word description: "ho1se"**  
 
 _output_   
 **hoise, horse, house** 
-
- 
+_________________________________
 _"nauti" followed by 3 unspecified letters_  
 **Enter word description: "nauti3"**   
 
