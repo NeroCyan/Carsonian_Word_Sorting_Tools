@@ -36,34 +36,35 @@ _"nauti" followed by 3 unspecified letters_
 _output_   
 **nautical, nautilus**  
 ## Periods "."
-Periods represent an ambiguous number of unspecified letters within a space. 
-e.g. 
+Periods represent an ambiguous number of unspecified letters within a space.   
 
-Enter word description: ".clone"   
- any number of unspecified letters followed by "clone"   
+Examples:   
 
- output   
-[ cyclone, anticyclone ]  
----------------------------------------  
-Enter word description: "how.t"  
- "how" followed by any number of unspecified letters followed by "t"   
+_any number of unspecified letters followed by "clone"_  
+**Enter word description: ".clone"**   
 
- output   
-[ howlet, howzat, howbeit ]  
----------------------------------------  
-Enter word description: "jagu."  
- "jagu." followed by any number of unspecified letters   
-
- output   
-[ jaguar, jaguars, jaguarondi, jaguarundi, jaguarondis, jaguarundis ]  
-
+_output_    
+**cyclone, anticyclone**  
+________________________________
+_"how" followed by any number of unspecified letters followed by "t"_  
+**Enter word description: "how.t"**
+ 
+_output_   
+**howlet, howzat, howbeit**
+_______________________________  
+_"jagu." followed by any number of unspecified letters_  
+**Enter word description: "jagu."**  
+   
+_output_   
+**jaguar, jaguars, jaguarondi, jaguarundi, jaguarondis, jaguarundis**  
 # Mixing
 Of course, any number of numbers, letters, periods, and any other number of symbols in future updates, can be combined to make a description pattern.
 
-e.g.  
-Enter word description: "el.tr1c"   
-"el" followed by any number of unspecified letters followed by "tr" followed by 1 unspecified letter followed by "c" 
+Example:    
+_"el" followed by any number of unspecified letters followed by "tr" followed by 1 unspecified letter followed by "c"_ 
+**Enter word description: "el.tr1c"**   
 
- output   
-[ electric, eccentric, excentric, egocentric, epigastric, econometric, eurocentric, ethnocentric, electrometric, endosmometric, europocentric ]
+
+_output_   
+**electric, eccentric, excentric, egocentric, epigastric, econometric, eurocentric, ethnocentric, electrometric, endosmometric, europocentric**
 
