@@ -18,12 +18,13 @@ Lowercase letters are used to represent exactly those letters, with numbers bein
 If some words seem odd, some really odd, it is because this program draws from an extensive text file - one might say overly extensive.  
 e.g.  
 
-**Enter word description: "2lp"**  
 _2 unspecified letters followed by "lp"_   
+**Enter word description: "2lp"**  
 
-_output_  
 
-_calp, gulp, help, holp, kelp, kilp, palp, pulp, qflp, salp, yelp_  
+_output_
+
+**calp, gulp, help, holp, kelp, kilp, palp, pulp, qflp, salp, yelp**
 ---------------------------------------  
 Enter word description: "ho1se"  
  "ho" followed by 1 unspecified letter followed by "se"   
