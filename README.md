@@ -20,14 +20,11 @@ e.g.
 
 _2 unspecified letters followed by "lp"_   
 **Enter word description: "2lp"**  
-
-
 _output_
-
 **calp, gulp, help, holp, kelp, kilp, palp, pulp, qflp, salp, yelp**
----------------------------------------  
+
 Enter word description: "ho1se"  
- "ho" followed by 1 unspecified letter followed by "se"   
+"ho" followed by 1 unspecified letter followed by "se"   
 
 output   
 hoise, horse, house 
